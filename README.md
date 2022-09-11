@@ -1,1 +1,1 @@
-# VegetableImageClassification
+# LandmarksImageClassification
